@@ -49,6 +49,9 @@ Organize your dataset with the following directory structure:
 By following these steps and guidelines, you'll be well-equipped to embark on your food detection journey using Yolov8. Happy coding!
 
 ## Resources
-- [Official Doucumentation Ultralytics](https://github.com/ultralytics/ultralytics)
-- [Reference Article](https://medium.com/@cascak/installing-creating-a-custom-dataset-for-yolov8-on-google-colab-a-step-by-step-guide-4ad0a725768d)
-- [Dataset](https://universe.roboflow.com/intel-n2yjd/food-detector-acbog)
+1. [Official Doucumentation Ultralytics](https://github.com/ultralytics/ultralytics)
+2. [Reference Article](https://medium.com/@cascak/installing-creating-a-custom-dataset-for-yolov8-on-google-colab-a-step-by-step-guide-4ad0a725768d)
+3. [Dataset](https://universe.roboflow.com/intel-n2yjd/food-detector-acbog)
+
+## License
+This project is licensed under the [MIT License](LICENSE).

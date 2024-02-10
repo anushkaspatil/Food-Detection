@@ -1,0 +1,15 @@
+path: "/content/drive/MyDrive/Colab Notebooks" #Path to the directory in which the images and labels are stored
+
+train: images/train
+val: images/valid
+test: images/test
+
+nc: 12
+names: ['Apple', 'Chapathi', 'Chicken Gravy', 'Fries', 'Idli', 'Pizza', 'Rice', 'Soda', 'Tomato', 'Vada', 'banana', 'burger']
+
+roboflow:
+  workspace: intel-n2yjd
+  project: food-detector-acbog
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/intel-n2yjd/food-detector-acbog/dataset/4
